@@ -20,4 +20,4 @@ In order to implement this feature in our projects, I have created a Hand Out wi
 ## Hand Out Solution
 The following link provides the solutions for the 5 TODOs available in the Hand Out. Click on the link to discover the magic of a Split Screen. Go for it!
 
-### [Split Screen Hand Out SOLUTION] (https://github.com/Astrorey776/SplitScreen_Adrian_Martin/releases/tag/2.0)
+### [Split Screen Hand Out SOLUTION](https://github.com/Astrorey776/SplitScreen_Adrian_Martin/releases/tag/2.0)
