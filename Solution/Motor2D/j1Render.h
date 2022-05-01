@@ -71,4 +71,4 @@ public:
 	bool debug = true;
 };
 
-#endif // __j1RENDER_H__
+#endif // __j1RENDER_H__a

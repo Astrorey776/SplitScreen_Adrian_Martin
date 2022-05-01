@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+# Split Screen 
 
-You can use the [editor on GitHub](https://github.com/Astrorey776/SplitScreen_Adrian_Martin/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## About me
+I am Roger Salas, student of Video Games Degree by UPC at CITM. This content is generated for the second year’s subject Project 2, under supervision of Pedro Omedas.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About the project
+This project is about how to implement a Split Screen within our videogames whatever the number of players available.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Astrorey776/SplitScreen_Adrian_Martin/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## What is a Split Screen?
+A split screen is a software program with the capacity of split X times their window with a horizontal or vertical orientation. The objective to do that, is that the user or player can view different areas of the same or other softwares at the same time. 
