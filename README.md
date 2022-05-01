@@ -12,6 +12,8 @@ A split screen is a software program with the capacity of split X times their wi
 ## When we need a Split Screen?
 We have all played video games such as Mario Kart, Call Of Duty, Ark and even Rocket League at home with our friends. All these games share the same common feature which is the ability to play with several people on the same device using the split screen option as a resource so that each player has their own space and their own camera when playing. We will mainly use a Split Screen when the video game has a part in which the scenery is different for each player and we want to see both parts of the scenery at the same time.
 
+![](https://github.com/Astrorey776/SplitScreen_Adrian_Martin/blob/main/docs/Mario%20kart.jpg)
+
 ## Hand Out
 In order to implement this feature in our projects, I have created a Hand Out with 5 TODOs with which we can experiment and implement different options to be able to play with several cameras and players at the same time. Click on the following link to go to the Hand Out download. What are you waiting for! 
 
